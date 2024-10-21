@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/textutils.git/static/css/main.f77632a9.chunk.css",
+    "main.js": "/textutils.git/static/js/main.6e6c2af3.chunk.js",
+    "main.js.map": "/textutils.git/static/js/main.6e6c2af3.chunk.js.map",
+    "runtime-main.js": "/textutils.git/static/js/runtime-main.b3aba446.js",
+    "runtime-main.js.map": "/textutils.git/static/js/runtime-main.b3aba446.js.map",
+    "static/js/2.a5b0c296.chunk.js": "/textutils.git/static/js/2.a5b0c296.chunk.js",
+    "static/js/2.a5b0c296.chunk.js.map": "/textutils.git/static/js/2.a5b0c296.chunk.js.map",
+    "static/js/3.b5bd36bd.chunk.js": "/textutils.git/static/js/3.b5bd36bd.chunk.js",
+    "static/js/3.b5bd36bd.chunk.js.map": "/textutils.git/static/js/3.b5bd36bd.chunk.js.map",
+    "index.html": "/textutils.git/index.html",
+    "precache-manifest.7f34b5c393a41458ef08d94b6d7474c5.js": "/textutils.git/precache-manifest.7f34b5c393a41458ef08d94b6d7474c5.js",
+    "service-worker.js": "/textutils.git/service-worker.js",
+    "static/css/main.f77632a9.chunk.css.map": "/textutils.git/static/css/main.f77632a9.chunk.css.map",
+    "static/js/2.a5b0c296.chunk.js.LICENSE.txt": "/textutils.git/static/js/2.a5b0c296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3aba446.js",
+    "static/js/2.a5b0c296.chunk.js",
+    "static/css/main.f77632a9.chunk.css",
+    "static/js/main.6e6c2af3.chunk.js"
+  ]
+}
